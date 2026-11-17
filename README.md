@@ -9,6 +9,8 @@ Yuhan Liu<sup>1*</sup>, Xinqi Liu<sup>1*</sup>, Zixuan Dong<sup>1*</sup>, Keith 
 [![arXiv](https://img.shields.io/badge/arXiv-2611.05372-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.05372)
 [![Project Website](https://img.shields.io/badge/Project-Website-1f4e9c.svg?logo=googlechrome&logoColor=white)](https://tinaliu0123.github.io/PolicyIK/)
 [![X Thread](https://img.shields.io/badge/-Thread-000000.svg?logo=x&logoColor=white)](https://x.com/l_yuhan7272/status/2118366838719422651)
+[![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E.svg)](https://huggingface.co/tina390/PolicyIK)
+[![Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-FFD21E.svg)](https://huggingface.co/datasets/tina390/PolicyIK-Data)
 
 </div>
 
@@ -16,7 +18,7 @@ Yuhan Liu<sup>1*</sup>, Xinqi Liu<sup>1*</sup>, Zixuan Dong<sup>1*</sup>, Keith 
   <img src="assets/teaser.png" alt="PolicyIK reaches full end-effector poses across the workspace and holds them within 1 mm and 0.2 degrees" width="100%">
 </p>
 
-PolicyIK is a goal-conditioned reinforcement learning policy for high-precision inverse kinematics (IK) of robot arms. In simulation and when trained directly on a physical OpenArm, it reaches and holds full end-effector poses within 1 mm and 0.2° on more tasks than classical IK controllers.
+PolicyIK is a goal-conditioned reinforcement learning policy for high-precision inverse kinematics (IK) of robot arms. In simulation and when trained directly on a physical OpenArm, it reaches and holds full end-effector poses within 1 mm and 0.2° on more tasks than classic IK controllers.
 
 ## 📝 Table of Contents
 
